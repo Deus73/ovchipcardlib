@@ -24,4 +24,4 @@ toml = "~=0.10.0"
 
 [packages]
 
-requests = ">=2.25"
+requests = ">=2.33.0"
